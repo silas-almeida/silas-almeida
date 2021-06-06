@@ -1,5 +1,5 @@
 <h2> Olá, seja bem-vindo! </h2>
-<p>Meu nome é Silas Almeida. Estudando, no momento, Flutter. Arriscando envolvimento em projetos mobile.</i></p>
+<p>Meu nome é Silas Almeida. Estudando, no momento, Flutter e arriscando envolvimento em projetos mobile.</i></p>
 <table> <tr>
                  <td>
                    <h4> Mais informações: </h4>
