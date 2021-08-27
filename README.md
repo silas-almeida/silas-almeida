@@ -1,5 +1,5 @@
 <h2> Olá, seja bem-vindo! </h2>
-<p>Meu nome é Silas Almeida. Estudando, no momento, Flutter e arriscando envolvimento em projetos mobile.</i></p>
+<p>Meu nome é Silas Almeida. Sou um desenvolvedor Flutter em constante aprimoramento. No momento estou estudando Clean Architecture, juntamente com TDD, e desenvolvendo projetos mobile pessoais. Empreendedorismo e soluções inovadoras me interessam!</i></p>
 <table> <tr>
                  <td>
                    <h4> Mais informações: </h4>
