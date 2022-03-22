@@ -6,7 +6,7 @@
                     <ul>
                         <li>:man_student: Técnico em Dev de Sistemas - <a href="https://ifs.edu.br/">IFS</a> </li>
                         <li>:earth_americas: Aracaju/SE - Brasil</li>
-                       <li>:hourglass: 24 anos de idade</li>
+                       <li>:hourglass: 25 anos de idade</li>
                    </ul>
                  </td>
                  <td>
