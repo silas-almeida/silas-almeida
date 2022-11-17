@@ -32,6 +32,6 @@
 
 [![GitHub: silas-almeida](https://img.shields.io/github/followers/silas-almeida?label=silas-almeida&style=social)](https://github.com/silas-almeida)
 
-[![Instagram: silas.almeida](https://img.shields.io/badge/-@silas.almeida-deeppink?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instragram.com/silas.almeida/)](https://www.instagram.com/silas.almeida/)
+[![Instagram: silas.morais_](https://img.shields.io/badge/-@silas.almeida-deeppink?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instragram.com/silas.morais_/)](https://www.instagram.com/silas.almeida/)
                  </td>
 </tr></table>
